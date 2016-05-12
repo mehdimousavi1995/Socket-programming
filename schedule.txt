@@ -1,0 +1,2 @@
+course1 ComputerEngineering MW ROOM(132) 2
+course2 ComputerNetworks TTH ROOM(100) 2

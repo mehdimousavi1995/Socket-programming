@@ -1,0 +1,4 @@
+student1 0.5 2 5 5
+student2 0.4 0 5 2
+student3 0.7 1 5 4
+student4 0.5 1 5 3
